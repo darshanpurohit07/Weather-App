@@ -14,7 +14,7 @@ A simple and clean weather app built with **HTML**, **CSS**, and **JavaScript** 
 ---
 
 ## 🚀 Live Demo
-👉 [View it on GitHub Pages](https://darshanpurohit07.github.io/Weather-App/) *(after deployment)*
+👉 [Weather App on GitHub Pages](https://darshanpurohit07.github.io/Weather-App/) *(after deployment)*
 
 ---
 
